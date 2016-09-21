@@ -11,7 +11,6 @@ import android.os.IBinder;
 import android.util.Log;
 
 public class Tracker extends Service implements LocationListener {
-    //SOURCE OF THIS CODE IS ALL FROM TURN TO TECH'S GPS MODULE
     private final Context mContext;
 
     // flag for GPS status
