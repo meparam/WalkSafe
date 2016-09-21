@@ -18,8 +18,7 @@ import java.util.ArrayList;
  * Created by heidiwu on 8/10/16.
  */
 public class ContactsList extends Activity {
-    //This Activity was mostly provided using the code from
-    //TurnToTech's "Address Book" and "List View with Delete" modules.
+
     private ListView lview;
     int[] contact_pos;
 
