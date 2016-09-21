@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_height="40dp"
+        android:layout_width="fill_parent"
+        android:background="#A3F4FF"
+        android:text="Select Your Contacts"
+        android:gravity="center"
+        android:textSize="25dp"
+        android:textColor="#0A93C9"
+        android:typeface="monospace">
+    </TextView>
+
+
+    <ListView
+        android:id="@+id/listView1"
+        android:layout_width="match_parent"
+        android:layout_height="379dp"
+        android:divider="#FFFFFF"
+        android:dividerHeight="2dp"
+        android:clickable="false"
+        android:layout_weight="0.25"
+        android:background="#A3F4FF">
+    </ListView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Continue"
+        android:onClick="Continue"
+        android:id="@+id/button"
+        android:background="#4AC94A"
+        android:textColor="#ffffff"
+        android:layout_gravity="bottom"
+        android:textSize="30dp"
+        android:typeface="monospace"
+        android:layout_weight="0.25" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Cancel"
+        android:onClick="Cancel"
+        android:id="@+id/button2"
+        android:layout_gravity="bottom"
+        android:background="#DB448F"
+        android:textSize="30dp"
+        android:textColor="#ffffff"
+        android:typeface="monospace"
+        android:layout_weight="0.25" />
+
+</LinearLayout>
