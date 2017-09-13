@@ -28,6 +28,7 @@
 ## Screenshots
 
 ### HomePage
+<img src="/screenshots/home.png" height="200">
 ![Alt text](/screenshots/home.png "home")
 
 ### Location Screen
