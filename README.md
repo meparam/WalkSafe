@@ -26,9 +26,9 @@
   * App will send notification to user if timer runs out.
 
 ## Screenshots
-
+<p align="center">
 ### HomePage
-<img src="/screenshots/home.png" height="500" align="center">
+<img src="/screenshots/home.png" height="500">
 
 ### Location Screen
 <img src="/screenshots/map.png" height="500">
@@ -50,3 +50,4 @@
 
 ### PANIC
 <img src="/screenshots/panic.png" height="500">
+</p>
