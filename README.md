@@ -28,26 +28,25 @@
 ## Screenshots
 
 ### HomePage
-<img src="/screenshots/home.png" height="200">
-![Alt text](/screenshots/home.png "home")
+<img src="/screenshots/home.png" height="500">
 
 ### Location Screen
-![Alt text](/screenshots/map.png "map")
+<img src="/screenshots/map.png" height="500">
 
 ### Choosing Contacts
-![Alt text](/screenshots/contacts.png "contacts")
+<img src="/screenshots/contacts.png" height="500">
 
 ### Starting Timer
-![Alt text](/screenshots/starttimer.png "timer")
+<img src="/screenshots/starttimer.png" height="500">
 
 ### Alerting
-![Alt text](/screenshots/alerting.png "alerting")
+<img src="/screenshots/alerting.png" height="500">
 
 ### Alert Text
-![Alt text](/screenshots/alert.png "alert")
+<img src="/screenshots/alert.png" height="500">
 
 ### False Alarm
-![Alt text](/screenshots/falsealarm.png "falsealarm")
+<img src="/screenshots/falsealarm.png" height="500">
 
 ### PANIC
-![Alt text](/screenshots/panic.png "panic")
+<img src="/screenshots/panic.png" height="500">
