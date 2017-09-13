@@ -26,28 +26,35 @@
   * App will send notification to user if timer runs out.
 
 ## Screenshots
-<p align="center">
 ### HomePage
+<p align="center">
 <img src="/screenshots/home.png" height="500">
-
+</p>
 ### Location Screen
+<p align="center">
 <img src="/screenshots/map.png" height="500">
-
+</p>
 ### Choosing Contacts
+<p align="center">
 <img src="/screenshots/contacts.png" height="500">
-
+</p>
 ### Starting Timer
+<p align="center">
 <img src="/screenshots/starttimer.png" height="500">
-
+</p>
 ### Alerting
+<p align="center">
 <img src="/screenshots/alerting.png" height="500">
-
+</p>
 ### Alert Text
+<p align="center">
 <img src="/screenshots/alert.png" height="500">
-
+</p>
 ### False Alarm
+<p align="center">
 <img src="/screenshots/falsealarm.png" height="500">
-
+</p>
 ### PANIC
+<p align="center">
 <img src="/screenshots/panic.png" height="500">
 </p>
