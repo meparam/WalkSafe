@@ -1,5 +1,9 @@
 # WalkSafe
 
+<p align="center">
+<img src="/screenshots/home.png" height="500">
+</p>
+
  WalkSafe allows users to alert their friends and family with a preset timer. The user can select the contacts they want to alert should their safety timer runs out. In order to stop the timer, the user must ping safe. If their timer runs out, the app will send an automated text messages to those contacts with the location of the user’s phone. To prevent this, the user must be aware of his or her timer and extend their timer accordingly to prevent false alarms. This forces the user to be aware of their surroundings and their app. However, should the user accidentally let their timer run out, a false alarm option will be prompted which allows the user to automatically send a follow up “false alarm” text message to their contacts.
 
  WalkSafe was created as the final project of Android Development (SUMMER 2016) at Hunter College..
