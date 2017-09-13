@@ -28,7 +28,7 @@
 ## Screenshots
 
 ### HomePage
-<img src="/screenshots/home.png" height="500">
+<img src="/screenshots/home.png" height="500" align="center">
 
 ### Location Screen
 <img src="/screenshots/map.png" height="500">
